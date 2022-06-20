@@ -1,2 +1,17 @@
-Link para download do Git: https://git-scm.com/downloads
+# ANOTAÇÕES AULAS DE GIT E GITHUB
+
+[Link para download do Git](https://git-scm.com/downloads)
 O Git é um terminal extendido para otmizar o uso do Git.
+
+
+## Comandos Git Bash
+  git init -> Cria um novo repositório
+  git clone [url] -> Cria uma cópia de um repositório na sua máquina
+  git add -> Ativa o tracking/monitoramento para o arquivo.
+  git status -> Apresenta o status dos arquivos: Unmodified, Modified ou staged.
+  git commit -m "mensagem" -> Realiza um commit com uma mensagem do commit
+  git rm -> Remove um arquivo do Git
+  git mv -> Move um arquivo 
+  git pull -> Atualiza o local
+  git push -> Transfere commits do repositório local para o remoto
+  
